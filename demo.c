@@ -7,4 +7,5 @@ main{
   
   
 /*Fin de Sección de variables*/  
+
 }
